@@ -33,7 +33,7 @@ function App() {
   return (
     <div className="App">
       <div>
-        <h1>Stopwach</h1>
+        <h1>Stopwatch</h1>
       </div>
       <div>
         <p>Time: {formatTime(time)}</p>
